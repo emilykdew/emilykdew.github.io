@@ -146,7 +146,7 @@ body {
 @media (max-width: 767px) {
 	
 	.nav li {
-		text-align: left;
+		text-align: center;
 		white-space: nowrap;
 	}
 	
@@ -200,7 +200,7 @@ body {
 	
 	.navbar-brand {
 		margin: 0;
-		text-align: left;
+		text-align: center;
 	}
 }
 
@@ -385,7 +385,7 @@ body {
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 	
